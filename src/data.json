@@ -1,0 +1,310 @@
+{
+  "title": "คู่มืออาหารสุนัขพุดเดิ้ลทอยในประเทศไทย",
+  "last_updated": "2025-03-13",
+  "categories": [
+    {
+      "id": "premium",
+      "name": "อาหารพรีเมียม",
+      "description": "คุณภาพสูง ราคาแพง ส่วนผสมดี",
+      "brands": [
+        {
+          "name": "Royal Canin Poodle",
+          "subname": "สูตรเฉพาะพุดเดิ้ล",
+          "price_per_kg": "466-540",
+          "price_per_bag": "400g: 250-350฿, 1.5kg: 750-900฿, 7.5kg: 3,500-4,000฿",
+          "protein": "28%",
+          "fat": "17%",
+          "fiber": "2.9%",
+          "key_ingredients": "โปรตีนไก่ ข้าวสาลี ข้าวโพด ไขมันไก่",
+          "pros": ["เม็ดออกแบบพิเศษสำหรับขากรรไกรพุดเดิ้ล", "สูตรเฉพาะสายพันธุ์", "บำรุงผิวหนังและขน"],
+          "cons": ["มีธัญพืช", "ราคาสูง"],
+          "best_for": "พุดเดิ้ลทอยทั่วไป ต้องการสูตรเฉพาะ",
+          "availability": ["Lazada", "Shopee", "Pet Lovers Centre"],
+          "rating": 4.8
+        },
+        {
+          "name": "Acana Small Breed",
+          "subname": "สูตรสุนัขพันธุ์เล็ก",
+          "price_per_kg": "315-425",
+          "price_per_bag": "340g: 150-200฿, 2kg: 700-900฿, 6kg: 2,000-2,500฿",
+          "protein": "31%",
+          "fat": "17%",
+          "fiber": "5%",
+          "key_ingredients": "ไก่ ไข่ ปลา ถั่วลันเตา ถั่วลิสง",
+          "pros": ["เนื้อสัตว์สด 50%", "ไม่มีสารกันบูด", "คุ้มค่าราคา"],
+          "cons": ["หาซื้อยากในบางพื้นที่"],
+          "best_for": "ต้องการคุณภาพสูง แต่งบจำกัด",
+          "availability": ["Lazada", "Shopee", "TailyBuddy"],
+          "rating": 4.7
+        },
+        {
+          "name": "Orijen Small Breed",
+          "subname": "สูตรสุนัขพันธุ์เล็ก",
+          "price_per_kg": "533-650",
+          "price_per_bag": "1.8kg: 1,000-1,200฿, 4.5kg: 2,400-3,000฿",
+          "protein": "38%",
+          "fat": "18%",
+          "fiber": "4%",
+          "key_ingredients": "ไก่ ไก่งวง ปลา ไข่ ไก่ป่า",
+          "pros": ["โปรตีนสูงมาก 38%", "85% เนื้อสัตว์", "WholePrey ratio", "ผิวขนสวย"],
+          "cons": ["ราคาสูง", "อาจมากเกินสำหรับสุนัขไม่ออกกำลังกาย"],
+          "best_for": "สุนัข active ต้องการผิวขนสวย",
+          "availability": ["Lazada", "Shopee", "PET2GO"],
+          "rating": 4.9
+        },
+        {
+          "name": "Hill's Science Diet",
+          "subname": "Small & Toy Breed",
+          "price_per_kg": "373-460",
+          "price_per_bag": "1.5kg: 600-750฿, 7kg: 2,800-3,500฿",
+          "protein": "21%",
+          "fat": "12%",
+          "fiber": "3%",
+          "key_ingredients": "ไก่ ข้าวบาร์เลย์ ข้าวโพด น้ำมันไก่",
+          "pros": ["สัตวแพทย์แนะนำ", "สูตร Sensitive Stomach ดีต่อลำไส้", "วิจัยรองรับ"],
+          "cons": ["มีธัญพืช", "โปรตีนต่ำกว่าตัวอื่น"],
+          "best_for": "ลำไส้แปรปรวน ต้องการความมั่นใจจากสัตวแพทย์",
+          "availability": ["Lazada", "Shopee", "ร้านสัตวแพทย์"],
+          "rating": 4.6
+        },
+        {
+          "name": "Wellness Core",
+          "subname": "Small Breed",
+          "price_per_kg": "560-750",
+          "price_per_bag": "1.8kg: 1,100-1,400฿, 5.4kg: 3,200-4,200฿",
+          "protein": "36%",
+          "fat": "16%",
+          "fiber": "5%",
+          "key_ingredients": "ไก่ ไก่งวง ไก่ป่า มันฝรั่งหวาน",
+          "pros": ["Grain-Free", "โปรตีนสูง", "ไม่มีสารกันบูด", "บำรุงผิวขน"],
+          "cons": ["ราคาสูง", "หาซื้อยาก"],
+          "best_for": "ต้องการ Grain-Free คุณภาพสูง",
+          "availability": ["Shopee", "Lazada", "ร้านอาหารสัตว์นำเข้า"],
+          "rating": 4.7
+        },
+        {
+          "name": "Canidae Pure",
+          "subname": "Small Breed (Limited Ingredient)",
+          "price_per_kg": "830-1000",
+          "price_per_bag": "1.8kg: 1,500-1,800฿, 5.4kg: 4,500-5,500฿",
+          "protein": "24%",
+          "fat": "12%",
+          "fiber": "4%",
+          "key_ingredients": "แซลมอน ถั่วลันเตา (สูตร Limited 7-10 ingredients)",
+          "pros": ["Limited Ingredient", "ดีต่อสุนัขแพ้อาหาร", "Grain-Free", "Probiotics"],
+          "cons": ["ราคาสูงมาก", "หายากมากในไทย"],
+          "best_for": "สุนัขแพ้อาหาร/ผิวแพ้ง่าย",
+          "availability": ["Ubuy Thailand", "ร้านนำเข้าบางร้าน"],
+          "rating": 4.8
+        }
+      ]
+    },
+    {
+      "id": "midrange",
+      "name": "อาหารระดับกลาง",
+      "description": "ราคาประหยัด คุณภาพรับได้ หาซื้อง่าย",
+      "brands": [
+        {
+          "name": "Maxima Small Breed",
+          "subname": "ไม่มีข้าวโพดและถั่วเหลือง",
+          "price_per_kg": "63-148",
+          "price_per_bag": "1kg: 79-99฿, 2kg: 235-295฿, 15kg: 950-1,250฿",
+          "protein": "22%",
+          "fat": "10%",
+          "fiber": "3%",
+          "key_ingredients": "เนื้อแกะป่น ข้าว น้ำมันปลา กลูโคซามีน",
+          "pros": ["ไม่มีข้าวโพด/ถั่วเหลือง", "ไม่มี Meat & Bone Meal", "มี Glucosamine บำรุงข้อ", "ราคาดีมาก"],
+          "cons": ["โปรตีนต่ำกว่าพรีเมียม", "ไม่ใช่เนื้อสด"],
+          "best_for": "งบประมาณจำกัด แต่ต้องการคุณภาพดี",
+          "availability": ["Shopee", "Lazada", "TailyBuddy"],
+          "rating": 4.6
+        },
+        {
+          "name": "SmartHeart Small Breed",
+          "subname": "สูตรย่อยง่าย",
+          "price_per_kg": "67-132",
+          "price_per_bag": "500g: 65฿, 3kg: 299-395฿, 10kg: 940-995฿, 20kg: 1,338฿",
+          "protein": "23%",
+          "fat": "8%",
+          "fiber": "4%",
+          "key_ingredients": "ผลพลอยได้จากสัตว์ปีก ข้าว ถั่วเหลือง น้ำมันไก่ เลซิติน",
+          "pros": ["ราคาประหยัด", "สูตรย่อยง่าย", "มีสารลดกลิ่นมูล", "แคลเซียมและฟอสฟอรัส"],
+          "cons": ["มีข้าวโพดและถั่วเหลือง", "มีสารพลอยได้ (by-products)"],
+          "best_for": "งบประมาณจำกัดมาก หาซื้อง่าย",
+          "availability": ["Shopee", "Lazada", "ร้านสะดวกซื้อ"],
+          "rating": 4.4
+        },
+        {
+          "name": "Pedigree Small Breed",
+          "subname": "หาซื้อง่ายที่สุด",
+          "price_per_kg": "91-162",
+          "price_per_bag": "400g: 45-65฿, 1.3kg: 130-165฿, 2.7kg: 275-285฿, 8kg: 730-750฿",
+          "protein": "24%",
+          "fat": "11%",
+          "fiber": "3%",
+          "key_ingredients": "เนื้อวัว เนื้อแกะ ไก่ ตับ ผัก ธัญพืช",
+          "pros": ["หาซื้อง่ายทุกที่", "ราคาถูก", "มี Omega-6 และสังกะสี", "รีวิวเยอะ"],
+          "cons": ["มีสารพลอยได้", "มีสารปรุงแต่ง", "คุณภาพต่ำกว่าตัวอื่น"],
+          "best_for": "เริ่มต้นเลี้ยงสุนัข งบจำกัดมาก",
+          "availability": ["Shopee", "Lazada", "7-Eleven", "ร้านค้าทั่วไป"],
+          "rating": 4.2
+        }
+      ]
+    },
+    {
+      "id": "imported",
+      "name": "อาหารนำเข้าพิเศษ",
+      "description": "สูตรพิเศษ Grain-Free Limited Ingredient",
+      "brands": [
+        {
+          "name": "Taste of the Wild",
+          "subname": "Small Breed Appalachian Valley",
+          "price_per_kg": "530-690",
+          "price_per_bag": "680g: 429-560฿, 2.27kg: 1,300-1,600฿, 12.7kg: 2,690-3,490฿",
+          "protein": "32%",
+          "fat": "18%",
+          "fiber": "4%",
+          "key_ingredients": "เนื้อกวาง เนื้อไก่งวง เนื้อไก่ ถั่วชิกพี ถั่วลันเตา",
+          "pros": ["Grain-Free", "ไม่มีไก่", "เม็ดเล็ก", "Probiotics", "นิยมมากในไทย"],
+          "cons": ["หายากในบางช่วง", "ราคาสูง"],
+          "best_for": "สุนัขแพ้อาหาร นิยมที่สุดในไทย",
+          "availability": ["Shopee", "Lazada", "Petsister", "MALETKHAO"],
+          "rating": 4.9
+        },
+        {
+          "name": "Instinct Raw Boost",
+          "subname": "Small Breed with Freeze-Dried Raw",
+          "price_per_kg": "1043-1305",
+          "price_per_bag": "1.8kg: 1,878-2,350฿, 4.5kg: 2,865-3,890฿",
+          "protein": "34%",
+          "fat": "20%",
+          "fiber": "4%",
+          "key_ingredients": "ไก่ ไก่งวง ปลา ไข่ ผสม Freeze-Dried Raw Pieces",
+          "pros": ["มี Freeze-Dried Raw", "บำรุงข้อสะบ้า", "โอเมก้าสูง", "Probiotics"],
+          "cons": ["ราคาสูงมาก", "ต้องเก็บระวังความชื้น"],
+          "best_for": "พุดเดิ้ลมีปัญหาข้อสะบ้าเคลื่อน",
+          "availability": ["OSDCO.net", "Shopee", "Lazada"],
+          "rating": 4.8
+        },
+        {
+          "name": "Blue Buffalo",
+          "subname": "Life Protection Small Breed",
+          "price_per_kg": "514-611",
+          "price_per_bag": "2.7kg: 1,388-1,650฿",
+          "protein": "26%",
+          "fat": "15%",
+          "fiber": "4%",
+          "key_ingredients": "ไก่ ข้าวสาลี ข้าวบาร์เลย์ LifeSource Bits",
+          "pros": ["LifeSource Bits (สารต้านอนุภาคอิสระ)", "เม็ดเล็ก", "บำรุงภูมิคุ้มกัน"],
+          "cons": ["มีธัญพืช", "ราคาสูง"],
+          "best_for": "ต้องการสารต้านอนุภาคอิสระเพิ่มเติม",
+          "availability": ["Shopee", "Lazada", "iHerb Thailand"],
+          "rating": 4.5
+        },
+        {
+          "name": "Zignature",
+          "subname": "Small Bites Limited Ingredient",
+          "price_per_kg": "361-528",
+          "price_per_bag": "1.8kg: 650-950฿, 5.4kg: 1,800-2,800฿",
+          "protein": "27%",
+          "fat": "14%",
+          "fiber": "5%",
+          "key_ingredients": "ปลา แกะ เป็ด ไข่ (Limited Ingredient สูตรละ 1-2 โปรตีน)",
+          "pros": ["Limited Ingredient", "ไม่มีไก่", "หลายสูตรให้เลือก", "เหมาะกับแพ้อาหาร"],
+          "cons": ["หายาก", "ราคาแพง"],
+          "best_for": "สุนัขแพ้อาหารหลายชนิด",
+          "availability": ["Ubuy Thailand", "ร้านนำเข้าเฉพาะ"],
+          "rating": 4.6
+        },
+        {
+          "name": "Merrick Lil' Plates",
+          "subname": "Small Breed Grain-Free",
+          "price_per_kg": "611-722",
+          "price_per_bag": "1.8kg: 1,100-1,300฿, เปียก 99g: 220฿",
+          "protein": "38%",
+          "fat": "17%",
+          "fiber": "3.5%",
+          "key_ingredients": "ไก่ ไก่งวง แซลมอน ถั่วลันเตา มันฝรั่ง",
+          "pros": ["Grain-Free", "โปรตีนสูง", "มีสูตร Limited Ingredient", "เม็ดเล็กมาก"],
+          "cons": ["หายากมากในไทย", "ราคาสูง"],
+          "best_for": "สุนัขพันธุ์เล็กมาก ต้องการเม็ดเล็กพิเศษ",
+          "availability": ["ร้านนำเข้าเฉพาะ", "Shopee บางร้าน"],
+          "rating": 4.7
+        },
+        {
+          "name": "Nutro Ultra",
+          "subname": "Small Breed Adult",
+          "price_per_kg": "340-566",
+          "price_per_bag": "1.8kg: ~1,450฿, 10kg: ~3,400฿",
+          "protein": "26%",
+          "fat": "14%",
+          "fiber": "4%",
+          "key_ingredients": "ไก่ แกะ แซลมอน ซุปเปอร์ฟู้ด 15 ชนิด",
+          "pros": ["Triple Protein", "ซุปเปอร์ฟู้ด", "Non-GMO", "บำรุงผิวขน"],
+          "cons": ["หายาก", "มีธัญพืช"],
+          "best_for": "ต้องการซุปเปอร์ฟู้ดเพิ่มเติม",
+          "availability": ["Ubuy Thailand", "iHerb"],
+          "rating": 4.4
+        }
+      ]
+    }
+  ],
+  "nutrition_guide": {
+    "protein_requirements": {
+      "puppy": "22% ขึ้นไป",
+      "adult": "18-22%",
+      "best_sources": ["ไก่", "ปลาแซลมอน", "ไก่งวง", "เนื้อแกะ"]
+    },
+    "fat_requirements": {
+      "range": "10-15%",
+      "importance": "Omega-3 และ Omega-6 สำหรับผิวขนพุดเดิ้ล"
+    },
+    "calorie_requirements": {
+      "adult_active_2kg": "250-350 kcal/วัน",
+      "adult_sedentary": "200-250 kcal/วัน",
+      "senior_7plus": "60-80 kcal/kg"
+    },
+    "common_health_issues": [
+      {
+        "issue": "อาการแพ้อาหาร",
+        "symptoms": ["คัน", "เกา", "หูอักเสบซ้ำ", "ท้องเสีย", "อาเจียน"],
+        "solution": "เลือก Limited Ingredient (Zignature, Canidae Pure)"
+      },
+      {
+        "issue": "ปัญหาฟัน",
+        "symptoms": ["พลัคสะสม", "กลิ่นปาก"],
+        "solution": "เลือกเม็ดอาหารขนาดเล็ก (Mini/Toy Size)"
+      },
+      {
+        "issue": "โรคอ้วน",
+        "symptoms": ["น้ำหนักเกิน", "ขี้เกียจ"],
+        "solution": "ควบคุมปริมาณอาหาร ใช้ถ้วยตวด"
+      },
+      {
+        "issue": "สะบ้าเคลื่อน (Patellar Luxation)",
+        "symptoms": ["ขากระเผลก", "เดินกระโผลกกระโผลก"],
+        "solution": "เลือกอาหารมี Glucosamine (Instinct Raw Boost, Maxima)"
+      },
+      {
+        "issue": "น้ำตาลในเลือดต่ำ",
+        "symptoms": ["ซึม", "สั่น", "ชัก (ลูกสุนัข)"],
+        "solution": "ให้อาหารแบ่งเป็นมื้อเล็กๆ วันละ 3-4 มื้อ"
+      }
+    ],
+    "foods_to_avoid": ["ช็อกโกแลต", "หัวหอม กระเทียม", "องุ่น/ลูกเกด", "ไขมันจากโต๊ะอาหาร", "Meat By-products"],
+    "transition_schedule": [
+      {"day": "1-2", "old_food": "75%", "new_food": "25%"},
+      {"day": "3-4", "old_food": "50%", "new_food": "50%"},
+      {"day": "5-6", "old_food": "25%", "new_food": "75%"},
+      {"day": "7", "old_food": "0%", "new_food": "100%"}
+    ]
+  },
+  "recommendations": {
+    "best_overall": "Royal Canin Poodle หรือ Taste of the Wild",
+    "best_value": "Maxima Small Breed หรือ Acana",
+    "best_for_allergies": "Zignature หรือ Canidae Pure",
+    "best_for_patellar": "Instinct Raw Boost",
+    "best_budget": "Maxima Small Breed",
+    "most_popular_thailand": "Taste of the Wild"
+  }
+}
